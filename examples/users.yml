@@ -1,0 +1,11 @@
+# Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+# SPDX-License-Identifier: MIT-0
+
+janedoe:
+  first_name: Jane
+  last_name: Doe
+  email: janedoe@email.com
+johndoe:
+  first_name: John
+  last_name: Doe
+  email: johndoe@email.com

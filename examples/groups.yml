@@ -1,0 +1,9 @@
+# Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+# SPDX-License-Identifier: MIT-0
+
+"group1":
+  description: "test description"
+  users: ["test-user", "test-user2", "test-user3", "test-user4"]
+"group2":
+  description: "test description"
+  users: ["test-user"]
