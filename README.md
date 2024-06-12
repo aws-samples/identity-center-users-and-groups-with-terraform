@@ -10,8 +10,8 @@ Create AWS IAM Identity Center groups, users, and group membership with Terrafor
 
 ## Module Inputs
 ```hcl
-module "idc_user_management" {
-  source = "github.com/aws-samples/identity-center-users-and-groups-with-terraform"
+module "idc_users_and_groups" {
+  source = "git@github.com:aws-samples/identity-center-users-and-groups-with-terraform"
   groups = "./groups.yml"
   users  = "./users.yml"
   }
